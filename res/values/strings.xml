@@ -14,6 +14,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Force LTE Carrier Aggregation</string>
+    <string name="force_lte_ca_summary">Enable this option to ensure optimal LTE carrier aggregation functionality</string>
     <!-- Strings for Dialog yes button -->
     <string name="yes">"Yes"</string>
     <!-- Strings for Dialog no button -->
